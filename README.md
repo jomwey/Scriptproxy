@@ -1,7 +1,7 @@
 # php-proxy-app
 Web Proxy Application built on [**php-proxy library**](https://github.com/Athlon1600/php-proxy) ready to be installed on your server
 
-![alt text](http://i.imgur.com/KrtU5KE.png?1 "This is how PHP-Proxy looks when installed")
+![alt text](https://imgur.com/a/lu4DM "This is how PHP-Proxy looks when installed")
 
 ## Installation
 
@@ -14,8 +14,7 @@ composer create-project athlon1600/php-proxy-app:dev-master /var/www/
 
 If you do not have composer or trying to host this application on a **shared hosting**, then download a pre-installed version of this app as a ZIP archive from [**www.php-proxy.com**](https://www.php-proxy.com/).
 
-**Direct Link:**  
-https://www.php-proxy.com/download/php-proxy.zip
+
 
 ## Keep it up-to-date
 
