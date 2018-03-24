@@ -1,7 +1,7 @@
 # php-proxy-app
 Web Proxy Application built on [**php-proxy library**](https://github.com/Athlon1600/php-proxy) ready to be installed on your server
 
-![alt text](https://imgur.com/a/lu4DM "This is how PHP-Proxy looks when installed")
+![alt text]( https://imgur.com/a/lu4DM   "This is how PHP-Proxy looks when installed")
 
 ## Installation
 
