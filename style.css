@@ -1,0 +1,69 @@
+
+
+p, div
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, a {
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+nav {
+	margin-top: 1%;
+}
+
+a {
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 20px;
+	margin-top: 3px;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 60px;
+}
+
+#main {
+	margin-top: 15%;
+}
+
+#main .input-group-addon, #main input[type="text"], #main input[type="submit"] {
+	height: 50px;
+	font-size: 20px;
+}
+
+#main .input-group-addon {
+	padding-left: 20px; 
+	padding-right: 20px; 
+}
+
+#slogan {
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+.footer {
+	margin-top: 23%;
+	text-align: center;
+}
+
+
+
+
+.action {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+}
